@@ -20,7 +20,7 @@ This project implements an object classification model that leverages both tradi
   - NumPy
   - pandas
   - Matplotlib for visualizations
-  - PyTorch or TensorFlow
+  - Ultralytics for YOLO
 
 ## Model Architecture
 - **Image Preprocessing**: 
